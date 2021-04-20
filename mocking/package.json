@@ -1,0 +1,15 @@
+{
+  "name": "websocket_replayer",
+  "version": "1.0.0",
+  "description": "### requirements * 依赖`nodejs, version>10` * 先执行`yarn/npm install` 安装dev-dependence",
+  "main": "mocking.js",
+  "scripts": {
+    "test": "mocking.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "ws": "^7.4.4"
+  }
+}
